@@ -53,7 +53,7 @@
 <br>
 <h2><i>💾Arquivos utilizados:</i></h2>
 ➛index.html
-➛Projeto1.css
+➛style.css
 ➛girl-cell-phone.png
 <br>
 <br>
