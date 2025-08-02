@@ -3,7 +3,7 @@
 
 
 
-<h2>🔥Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub🔥</a></h2>
+<h2>🔥Esse foi um projeto que eu aprendi no <a href="https://lp.devclub.com.br/devclub-oficial/">DevClub🔥</a></h2>
 <br>
 
 <h2><i>📜Breve descrição:</i></h2>
